@@ -1,10 +1,10 @@
 {
   "root": true,
   "project": {
-    "name": "gap-app-backend"
+    "name": "gap-backend"
   },
   "api": {
-    "projectId": "ids8ztzz",
+    "projectId": "oolj8e1c",
     "dataset": "production"
   },
   "plugins": [
